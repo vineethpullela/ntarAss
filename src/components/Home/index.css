@@ -1,0 +1,21 @@
+.home-container{    
+    margin: 30px;
+   
+}
+.home-heading{
+    font-size: 30px;
+    font-family: Poppins;
+    color: rgb(5, 88, 91);
+}
+
+.items-container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.page-btn{
+    display: flex;
+    justify-content: space-between;
+}
